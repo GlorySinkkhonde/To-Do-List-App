@@ -1,0 +1,14 @@
+Actions
+ - You can add any number of tasks to the app
+ - It keeps track of the tasks
+ - Click on the checkbox to complete the tasks
+ - Filter using buttons
+ - Dark mode
+   - Icon should appear in top right corner
+ - Tags and categories
+   - They should create the tags themselves
+   - Once they click on add tag, the tags they created if any should populate otherwise create new tags
+   - Once they add the tags, it should be displayed next to the task 
+   - Also when the specific tag is clicked, its tasks should populate
+
+ Add other features later

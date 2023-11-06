@@ -1,0 +1,14 @@
+.wrapper{
+    width: 40%;
+    margin: 0 auto;
+ }
+ 
+ .input-text > :nth-child(1){
+     font-size: 20px;
+     font-weight: 600;
+ }
+ 
+ .signup-header{
+     font-size: 100px;
+     text-align: center;
+ }
