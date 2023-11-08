@@ -1,0 +1,11 @@
+.app__wrapper{
+    display: flex;
+}
+
+.sidebar__wrapper{
+    width: 20%;
+}
+
+.main__section__wrapper{
+    margin-left: 3rem;
+}

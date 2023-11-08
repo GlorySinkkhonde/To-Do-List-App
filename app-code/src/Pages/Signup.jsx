@@ -14,7 +14,7 @@ function Signup() {
 
       <DoItRightHeader />
 
-      <h1 className='signup-header'>Sign Up</h1>
+      <h1 className='signup__header'>Sign Up</h1>
 
       <Form fields={['name', 'email', 'password', 'type']} className='wrapper'>
 
@@ -27,7 +27,7 @@ function Signup() {
             padding: '1rem',
             borderRadius: '5px',
           }}
-          className='input-text'
+          className='input-__text'
         />
         <Input
           name='email'
@@ -39,7 +39,7 @@ function Signup() {
             padding: '1rem',
             borderRadius: '5px'
           }}
-          className='input-text'
+          className='input__text'
         />
         <Input
           name='password'
@@ -51,11 +51,11 @@ function Signup() {
             padding: '1rem',
             borderRadius: '5px'
           }}
-          className='input-text'
+          className='input__text'
         />
         
         <FormButton 
-            className='custom-button'
+            className='custom__button'
           onClick={fields => console.log(fields)}
         >Sign up</FormButton>
         
